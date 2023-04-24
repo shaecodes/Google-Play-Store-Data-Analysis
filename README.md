@@ -3,9 +3,9 @@ This Jupyter Notebook contains an analysis of mobile apps data. The data include
 
 # Files  
 
-- **mobile_apps_data.ipynb**: Jupyter Notebook containing the data analysis code.  
+- **mobileapps.ipynb**: Jupyter Notebook containing the data analysis code.  
 
-- **mobile_apps_data.csv**: CSV file containing the raw data used for analysis.  
+- **googleplaystore.csv**: CSV file containing the raw data used for analysis.  
 
 # Analysis  
 
@@ -31,7 +31,7 @@ The analysis includes various visualizations such as pie charts, bar graphs, and
 
 # References  
 
-- **mobile_apps_data.csv**: Raw data file used for analysis. This csv is a sample of a document created by Lavanya on https://www.kaggle.com/datasets/lava18/google-play-store-apps
+- **googleplaystore.csv**: Raw data file used for analysis. This csv is a sample of a document created by Lavanya on https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 - Libraries used: **Pandas, Matplotlib, Plotly**.  
 
