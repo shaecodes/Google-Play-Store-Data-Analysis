@@ -16,7 +16,7 @@ The analysis includes various visualizations such as pie charts, bar graphs, and
 
 - Install the required libraries listed in the requirements section of the Jupyter Notebook.  
 
-- Open the Jupyter Notebook mobile_apps_data.ipynb in your Jupyter environment.  
+- Open the Jupyter Notebook mobileapps.ipynb in your Jupyter environment.  
 
 - Run the code cells in the notebook to perform the analysis.  
 
