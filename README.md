@@ -34,5 +34,3 @@ The analysis includes various visualizations such as pie charts, bar graphs, and
 - **googleplaystore.csv**: Raw data file used for analysis. This csv is a sample of a document created by Lavanya on https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 - Libraries used: **Pandas, Matplotlib, Plotly**.  
-
-Feel free to customize the README file based on your specific analysis and project requirements. Include any relevant information, such as data sources, assumptions, or additional instructions for running the analysis.
